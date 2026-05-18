@@ -2,8 +2,6 @@
 
 A major end-to-end SQL analytics project for Walmart sales data. The project includes a bundled sample from a real Walmart weekly sales dataset, a normalized POS database model, PostgreSQL/MySQL scripts, ETL loaders, an interactive Streamlit dashboard, forecasting, diagrams, CI, deployment instructions, report material, and a presentation outline.
 
-> Live dashboard: add your Streamlit Community Cloud URL here after deployment.
-
 ## Dashboard Preview
 
 - [Dashboard overview SVG](docs/screenshots/dashboard_overview.svg)
