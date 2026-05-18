@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+.env
+data/raw/*.csv
+!data/raw/walmart_real_sales.csv
+data/processed/
