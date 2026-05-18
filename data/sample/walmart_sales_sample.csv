@@ -1,0 +1,25 @@
+invoice_id,branch,city,customer_type,gender,product_line,unit_price,quantity,tax_5,total,date,time,payment,cogs,gross_margin_percentage,gross_income,rating
+A-0101-00001,A,Yangon,Member,Female,Food and beverages,54.40,5,13.60,285.60,2024-01-01,10:30:00,Ewallet,272.00,4.7619,13.60,8.5
+A-0102-00002,A,Yangon,Normal,Male,Electronic accessories,88.20,2,8.82,185.22,2024-01-02,12:15:00,Cash,176.40,4.7619,8.82,7.2
+B-0103-00003,B,Mandalay,Member,Female,Fashion accessories,42.75,4,8.55,179.55,2024-01-03,15:45:00,Credit card,171.00,4.7619,8.55,8.1
+C-0104-00004,C,Naypyitaw,Normal,Female,Home and lifestyle,65.10,3,9.77,205.07,2024-01-04,19:20:00,Ewallet,195.30,4.7619,9.77,6.9
+B-0105-00005,B,Mandalay,Member,Male,Sports and travel,32.25,7,11.29,237.04,2024-01-05,11:10:00,Cash,225.75,4.7619,11.29,9.0
+C-0106-00006,C,Naypyitaw,Normal,Male,Health and beauty,73.60,2,7.36,154.56,2024-01-06,17:05:00,Credit card,147.20,4.7619,7.36,7.8
+A-0201-00007,A,Yangon,Member,Female,Electronic accessories,29.95,8,11.98,251.58,2024-02-01,09:45:00,Ewallet,239.60,4.7619,11.98,8.8
+B-0202-00008,B,Mandalay,Normal,Female,Food and beverages,91.30,3,13.70,287.60,2024-02-02,13:30:00,Cash,273.90,4.7619,13.70,6.7
+C-0203-00009,C,Naypyitaw,Member,Male,Fashion accessories,18.40,10,9.20,193.20,2024-02-03,20:50:00,Ewallet,184.00,4.7619,9.20,9.3
+A-0204-00010,A,Yangon,Normal,Male,Home and lifestyle,77.70,1,3.89,81.59,2024-02-04,16:25:00,Credit card,77.70,4.7619,3.89,5.9
+B-0205-00011,B,Mandalay,Member,Female,Health and beauty,56.80,6,17.04,357.84,2024-02-05,18:40:00,Ewallet,340.80,4.7619,17.04,8.4
+C-0206-00012,C,Naypyitaw,Normal,Female,Sports and travel,47.60,5,11.90,249.90,2024-02-06,14:00:00,Cash,238.00,4.7619,11.90,7.5
+A-0301-00013,A,Yangon,Member,Male,Food and beverages,23.90,9,10.76,225.86,2024-03-01,10:05:00,Cash,215.10,4.7619,10.76,8.2
+B-0302-00014,B,Mandalay,Normal,Male,Electronic accessories,99.50,2,9.95,208.95,2024-03-02,12:55:00,Ewallet,199.00,4.7619,9.95,6.8
+C-0303-00015,C,Naypyitaw,Member,Female,Home and lifestyle,84.15,4,16.83,353.43,2024-03-03,15:10:00,Credit card,336.60,4.7619,16.83,9.6
+A-0304-00016,A,Yangon,Normal,Female,Sports and travel,38.40,3,5.76,120.96,2024-03-04,19:35:00,Ewallet,115.20,4.7619,5.76,7.1
+B-0305-00017,B,Mandalay,Member,Male,Health and beauty,68.25,5,17.06,358.31,2024-03-05,11:45:00,Credit card,341.25,4.7619,17.06,8.7
+C-0306-00018,C,Naypyitaw,Normal,Male,Fashion accessories,26.35,6,7.91,166.01,2024-03-06,17:20:00,Cash,158.10,4.7619,7.91,6.5
+A-0401-00019,A,Yangon,Member,Female,Health and beauty,44.90,7,15.72,330.02,2024-04-01,09:30:00,Ewallet,314.30,4.7619,15.72,9.1
+B-0402-00020,B,Mandalay,Normal,Female,Home and lifestyle,52.60,4,10.52,220.92,2024-04-02,13:15:00,Cash,210.40,4.7619,10.52,7.0
+C-0403-00021,C,Naypyitaw,Member,Male,Food and beverages,80.00,3,12.00,252.00,2024-04-03,16:45:00,Credit card,240.00,4.7619,12.00,8.9
+A-0404-00022,A,Yangon,Normal,Male,Fashion accessories,35.75,8,14.30,300.30,2024-04-04,20:05:00,Ewallet,286.00,4.7619,14.30,6.4
+B-0405-00023,B,Mandalay,Member,Female,Sports and travel,59.90,2,5.99,125.79,2024-04-05,14:35:00,Cash,119.80,4.7619,5.99,8.0
+C-0406-00024,C,Naypyitaw,Normal,Female,Electronic accessories,71.45,5,17.86,375.11,2024-04-06,18:10:00,Credit card,357.25,4.7619,17.86,7.7
